@@ -7,8 +7,8 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮williamwonder23@gmail.com
+//▮WHATSAPP US : +27 782186505
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING WONDER23
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -37,9 +37,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
+global.owner = ['27782186505','']
+global.premium = ['27782186505','27782186505']
+global.botname = 'DARK WONDER23 INC'
 global.ownername = 'DRIPS'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
@@ -80,7 +80,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait WONDER23 bot processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
