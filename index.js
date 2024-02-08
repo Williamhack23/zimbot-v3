@@ -1,14 +1,14 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮WONDER23 INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮williamwonder23@gmail.com
+//▮WHATSAPP US : +27782186505
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -157,7 +157,7 @@ mentions: [num],
 fileName: `Welcome To ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©WONder23 BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
